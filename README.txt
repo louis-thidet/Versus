@@ -1,3 +1,5 @@
+Load the repository in Netbeans as a project. To build it: Run -> Clean and Build
+
 Below are the sources of the assets used for the game:
 
 Sprites and backgrounds:
